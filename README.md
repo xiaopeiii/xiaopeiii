@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiaopeiii
-- 👀 I’m interested in Machine Learning, Statistics, Mathematics
+- 👀 I’m interested in Agentic AI, Machine Learning, Statistics, Mathematics
 - 🌱 I’m currently learning Maths&Stats in Oxford
 
 <!---
